@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:49.671572
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:12
 #+TITLE: 烏芻澁明王儀軌梵字
 #+PROPERTY: CBETA_ID T21n1226
 #+PROPERTY: ID KR6j0454
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1226
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0454_T_000-0141b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0454_T_001-0141b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1226¶
-
- 烏芻澁明王儀軌梵字¶
+No. 1226¶
+烏芻澁明王儀軌梵字¶
 ¶
 
 ¶
